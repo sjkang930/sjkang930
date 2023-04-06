@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjkang930&label=Profile%20views&color=0e75b6&style=flat" alt="sjkang930" /> </p>
 
-- 🔭 I’m currently working on **Chicakdee**
+- 🔭 I’m currently working on **Chickadee**
 
 - 👨‍💻 All of my projects are available at [https://sujik930.com/](https://sujik930.com/)
 
